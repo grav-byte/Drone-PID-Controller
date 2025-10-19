@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d734b5707fc448238f789a9869bc5a8f, type: 3}
   m_Name: Roll
   m_EditorClassIdentifier: 
-  pGain: 1
-  dGain: 5
+  pGain: 0.5
+  dGain: 0.1
   iGain: 0
   iSaturation: 0
